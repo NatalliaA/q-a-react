@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/q-a-react/static/css/main.42a3b694.chunk.css",
+    "main.js": "/q-a-react/static/js/main.95977102.chunk.js",
+    "main.js.map": "/q-a-react/static/js/main.95977102.chunk.js.map",
+    "runtime-main.js": "/q-a-react/static/js/runtime-main.592e3cbe.js",
+    "runtime-main.js.map": "/q-a-react/static/js/runtime-main.592e3cbe.js.map",
+    "static/js/2.64f3b586.chunk.js": "/q-a-react/static/js/2.64f3b586.chunk.js",
+    "static/js/2.64f3b586.chunk.js.map": "/q-a-react/static/js/2.64f3b586.chunk.js.map",
+    "index.html": "/q-a-react/index.html",
+    "precache-manifest.6b93b245dd7d7fd52c3c56782775ae57.js": "/q-a-react/precache-manifest.6b93b245dd7d7fd52c3c56782775ae57.js",
+    "service-worker.js": "/q-a-react/service-worker.js",
+    "static/css/main.42a3b694.chunk.css.map": "/q-a-react/static/css/main.42a3b694.chunk.css.map",
+    "static/js/2.64f3b586.chunk.js.LICENSE.txt": "/q-a-react/static/js/2.64f3b586.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592e3cbe.js",
+    "static/js/2.64f3b586.chunk.js",
+    "static/css/main.42a3b694.chunk.css",
+    "static/js/main.95977102.chunk.js"
+  ]
+}
