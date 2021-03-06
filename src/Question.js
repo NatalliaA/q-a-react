@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { MdExpandMore, MdExpandLess } from 'react-icons/md';
 import questions from './data';
+
 const Question = ({ id, title, info }) => {
 
   const [showInfo, setshowInfo] = useState(false);
